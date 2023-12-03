@@ -1,0 +1,25 @@
+.list-of-questions{
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.list-of-questions>ol>li{
+    font-size: 28px;
+    font-style: italic;
+}
+
+.list-of-questions>ol>li>ul{
+    padding: 0;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.list-of-questions>ol>li>ul>li{
+    font-size: 24px;
+    font-style: normal;
+    font-family: Garamond;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}

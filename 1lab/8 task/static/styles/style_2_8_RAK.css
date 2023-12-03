@@ -1,0 +1,17 @@
+.image-container{
+   margin: 50px;
+   text-align: center;   
+}
+
+.image-container>img{
+   border: 3px;
+   border-style: solid;
+   border-color: rgb(58, 28, 142);
+}
+
+.welcome-text-container{
+   margin-top: 20px;
+   margin-bottom: 20px;
+   margin-left: 15%;
+   margin-right: 15%;
+}
